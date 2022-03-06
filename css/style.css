@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Trochut:wght@700&display=swap");
+@import url("component/container.css");
+@import url("component/cards.css");
+@import url("component/banner.css");
+@import url("component/photos.css");
+@import url("component/bouton.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	margin: 0px;
+	
+} 
+p {
+	font-size: 27px;
+
+}
+
+h2, h3, h4, h5 {
+	font-family: 'Trochut', cursive;
+	font-size: 50px;
+
+}
+h1 {
+	font-family: 'Trochut', cursive;
+	font-size: 100px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	transition: color 0.3s ease;
+	margin: 10px;
+	margin-left: 20px;
+	}
+
+a hover {
+	color: rgb(110, 115, 112);
+	}

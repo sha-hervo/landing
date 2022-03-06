@@ -1,0 +1,19 @@
+.banner {
+	background-image: url(../../images/hamza.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {	
+	border-style:solid;
+ 	padding: 20px;
+
+}
+
+.banner p {
+	font-weight: lighter;
+	opacity: 0.8;
+
+}
